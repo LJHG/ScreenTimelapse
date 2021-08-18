@@ -11,7 +11,7 @@ python screenTimelapse.py -wi 1920 -he 1080 -o demo.avi -r 100 -w 1
 
 ## result
 
-![test](.\img\test.gif)
+![test](/img/test.gif)
 
 
 
